@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+body {
+    background: #31333b;
+}
+
+.navbar {
+    height: 70px;
+    background: #23242a;
+}
